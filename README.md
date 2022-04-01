@@ -1,0 +1,2 @@
+# FrontEnd
+We are creating a car rental website which we named as "Rent-A-Car". In this application we have two types of users one is admin and other one is  customer. Both admin and customer need to do login before accessing their respective parts on the website. Admin can manage the data of cars like adding and removing the information of all the cars,view all the data of customers. Customers can view and book cars of their own choice and after that they can can give review/feedback from their experience of using the facility 
